@@ -1,4 +1,4 @@
-# Text_Mining
+# Text-Mining
 **Exploration of Gender Dynamics in Journalism: A Dive into the Reuters C50 Corpus**
 
 Inspired by the Reuters C50 text corpus, we ventured to understand the nuances of gender in journalism, focusing on how article content and writing style might differ between male and female authors.
